@@ -1,0 +1,13 @@
+{
+  "name": "@aholtzman/bacon-ipsum-filler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": "git://github.com/aholtzman/bacon-ipsum-filler.git",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}

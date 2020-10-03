@@ -1,0 +1,5 @@
+*.log
+.vscode/
+.greenwood/
+public/
+node_modules/
